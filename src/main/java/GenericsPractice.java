@@ -1,4 +1,6 @@
-public class Main {
+import java.util.List;
+
+public class GenericsPractice {
     // implement the public averageList method here
     
     public static void main(String[] args) {
